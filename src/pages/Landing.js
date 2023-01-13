@@ -1,6 +1,7 @@
 import React from "react";
-import main from "../assets/images/main.svg";
+import { Link } from "react-router-dom";
 
+import main from "../assets/images/main.svg";
 import Wrapper from "../assets/wrappers/LandingPage";
 import { Logo } from "../components";
 
@@ -23,7 +24,9 @@ const Landing = () => {
 						corrupti perspiciatis, tempore praesentium dolor expedita vitae id
 						in iusto, quas voluptates dolorem ea nostrum?
 					</p>
-					<button className="btn btn-hero">Login/Register</button>
+					<Link to="/register" className="btn btn-hero">
+						Login/Register
+					</Link>
 				</div>
 				{/* Image */}
 				<img src={main} alt="Jobster" className="img main-img" />
