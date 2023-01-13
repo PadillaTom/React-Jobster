@@ -1,5 +1,7 @@
+import { Dashboard, Landing, Register, Error } from "./pages";
+
 function App() {
-	return <h2>Initial Project with Assets</h2>;
+	return <Landing></Landing>;
 }
 
 export default App;
