@@ -2,7 +2,7 @@
 	"name": "react-jobster",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://padillatom.github.io/React-Jobster",
+	"homepage": "https://padillatom.github.io/React-Jobster/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.16.5",
 		"@testing-library/react": "^13.4.0",
