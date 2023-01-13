@@ -8,7 +8,7 @@ const App = () => {
 			<Routes>
 				<Route
 					exact
-					path="/React-Jobster"
+					path="React-Jobster"
 					element={<Dashboard></Dashboard>}
 				></Route>
 				<Route path="landing" element={<Landing></Landing>}></Route>
