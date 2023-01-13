@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React-Jobster/static/css/main.6f4b9f7a.css",
-    "main.js": "/React-Jobster/static/js/main.31ce2930.js",
+    "main.js": "/React-Jobster/static/js/main.a5d2255e.js",
     "static/media/main.svg": "/React-Jobster/static/media/main.17b316de742b3a1202078c5ae18c8261.svg",
     "static/media/not-found.svg": "/React-Jobster/static/media/not-found.5cfa24fa5e3ca7dffe02f358358ea9df.svg",
     "static/media/logo.svg": "/React-Jobster/static/media/logo.35bb8e1d9b5745af32ff148cbee51dfa.svg",
     "index.html": "/React-Jobster/index.html",
     "main.6f4b9f7a.css.map": "/React-Jobster/static/css/main.6f4b9f7a.css.map",
-    "main.31ce2930.js.map": "/React-Jobster/static/js/main.31ce2930.js.map"
+    "main.a5d2255e.js.map": "/React-Jobster/static/js/main.a5d2255e.js.map"
   },
   "entrypoints": [
     "static/css/main.6f4b9f7a.css",
-    "static/js/main.31ce2930.js"
+    "static/js/main.a5d2255e.js"
   ]
 }
