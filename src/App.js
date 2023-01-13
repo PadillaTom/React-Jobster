@@ -6,7 +6,11 @@ const App = () => {
 	return (
 		<HashRouter>
 			<Routes>
-				<Route exact path="/" element={<Dashboard></Dashboard>}></Route>
+				<Route
+					exact
+					path="/React-Jobster"
+					element={<Dashboard></Dashboard>}
+				></Route>
 				<Route path="landing" element={<Landing></Landing>}></Route>
 				<Route path="register" element={<Register></Register>}></Route>
 				<Route path="*" element={<Error></Error>}></Route>
