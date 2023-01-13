@@ -6,7 +6,11 @@ const App = () => {
 	return (
 		<BrowserRouter>
 			<Routes>
-				<Route path="/React-Jobster" element={<Dashboard></Dashboard>}></Route>
+				<Route
+					exact
+					path="/React-Jobster"
+					element={<Dashboard></Dashboard>}
+				></Route>
 				<Route
 					path="/React-Jobster/landing"
 					element={<Landing></Landing>}
